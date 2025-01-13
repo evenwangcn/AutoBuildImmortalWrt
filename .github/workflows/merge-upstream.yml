@@ -29,6 +29,7 @@ jobs:
         ref: master
         fetch-depth: 0
         lfs: true
+        token: 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
 
     - name: Set git identity
       run: |
